@@ -1,0 +1,142 @@
+[
+	{
+		"title": "Pantalon",
+		"description": "Pantalon de algodón",
+		"code": "abcd",
+		"price": 220,
+		"status": true,
+		"stock": 10,
+		"category": "Ropa",
+		"thumbnails": [
+			"ruta/imagen1.jpg",
+			"ruta/imagen2.jpg"
+		],
+		"id": 1
+	},
+	{
+		"title": "Camiseta",
+		"description": "Camiseta de manga corta",
+		"code": "efgh",
+		"price": 150,
+		"status": true,
+		"stock": 20,
+		"category": "Ropa",
+		"thumbnails": [
+			"ruta/imagen3.jpg",
+			"ruta/imagen4.jpg"
+		],
+		"id": 2
+	},
+	{
+		"title": "Zapatos",
+		"description": "Zapatos de cuero",
+		"code": "ijkl",
+		"price": 350,
+		"status": true,
+		"stock": 5,
+		"category": "Calzado",
+		"thumbnails": [
+			"ruta/imagen5.jpg",
+			"ruta/imagen6.jpg"
+		],
+		"id": 3
+	},
+	{
+		"title": "Blusa",
+		"description": "Blusa de seda",
+		"code": "mnop",
+		"price": 180,
+		"status": true,
+		"stock": 15,
+		"category": "Ropa",
+		"thumbnails": [
+			"ruta/imagen7.jpg",
+			"ruta/imagen8.jpg"
+		],
+		"id": 4
+	},
+	{
+		"title": "Shorts",
+		"description": "Shorts deportivos",
+		"code": "qrst",
+		"price": 120,
+		"status": true,
+		"stock": 8,
+		"category": "Ropa",
+		"thumbnails": [
+			"ruta/imagen9.jpg",
+			"ruta/imagen10.jpg"
+		],
+		"id": 5
+	},
+	{
+		"title": "Bolso",
+		"description": "Bolso de cuero",
+		"code": "uvwxyz",
+		"price": 280,
+		"status": true,
+		"stock": 12,
+		"category": "Accesorios",
+		"thumbnails": [
+			"ruta/imagen11.jpg",
+			"ruta/imagen12.jpg"
+		],
+		"id": 6
+	},
+	{
+		"title": "Sombrero",
+		"description": "Sombrero de paja",
+		"code": "abcd123",
+		"price": 60,
+		"status": true,
+		"stock": 30,
+		"category": "Accesorios",
+		"thumbnails": [
+			"ruta/imagen13.jpg",
+			"ruta/imagen14.jpg"
+		],
+		"id": 7
+	},
+	{
+		"title": "Vestido",
+		"description": "Vestido largo",
+		"code": "efgh456",
+		"price": 320,
+		"status": true,
+		"stock": 6,
+		"category": "Ropa",
+		"thumbnails": [
+			"ruta/imagen15.jpg",
+			"ruta/imagen16.jpg"
+		],
+		"id": 8
+	},
+	{
+		"title": "Bufanda",
+		"description": "Bufanda de lana",
+		"code": "ijkl789",
+		"price": 80,
+		"status": true,
+		"stock": 25,
+		"category": "Accesorios",
+		"thumbnails": [
+			"ruta/imagen17.jpg",
+			"ruta/imagen18.jpg"
+		],
+		"id": 9
+	},
+	{
+		"title": "Sudadera",
+		"description": "Sudadera con capucha",
+		"code": "mnop123",
+		"price": 200,
+		"status": true,
+		"stock": 18,
+		"category": "Ropa",
+		"thumbnails": [
+			"ruta/imagen19.jpg",
+			"ruta/imagen20.jpg"
+		],
+		"id": 10
+	}
+]
